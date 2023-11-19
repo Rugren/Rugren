@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 ### Bienvenido a mi perfil de GitHub 👋
 
-Actualmente estoy cursando un ciclo Formativo de **Grade Superior de Desarrollo de Aplicaciones Web**.
+<p>Actualmente estoy cursando un ciclo Formativo de **Grade Superior de Desarrollo de Aplicaciones Web**.</p>
 
-Siempre me encuentro en continuo aprendizaje y estudio de la materia del desarrollo web y/o software de aplicaciones
-Busco oportunidades de trabajo donde aplicar, practicar y desarrollar  mis habilidades técnicas.
-Estoy abierto nuevos empleos o prácticas dónde seguir avanzando y evolucionando en esta industria del sector tecnológico.
+<p>Siempre me encuentro en continuo aprendizaje y estudio de la materia del desarrollo web y/o software de aplicaciones.</p>
+<p>Busco oportunidades de trabajo donde aplicar, practicar y desarrollar  mis habilidades técnicas.</p>
+<p>Estoy abierto nuevos empleos o prácticas dónde seguir avanzando y evolucionando en esta industria del sector tecnológico.</p>
 
-Trabajo con **HTML**, **CSS3**, **PHP**, **Java**, también me gustaría aprender Phyton, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos. 
+<p>Trabajo con **HTML**, **CSS3**, **PHP**, **Java**, también me gustaría aprender Phyton, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos.</p>
 
-Como proyecto personal dispongo de una página web realizada en WordPress: <a href="https://rugren.es/" target="_blank" rel="noopener">Rugren.es</a>
+<p>Como proyecto personal dispongo de una página web realizada en WordPress: <a href="https://rugren.es/" target="_blank" rel="noopener">Rugren.es</a></p>
 
-Estoy abierto a oportunidades de empleo o prácticas que me permitan sumergirme en el mundo del desarrollo web y seguir evolucionando en esta industria.
+<p>Estoy abierto a oportunidades de empleo o prácticas que me permitan sumergirme en el mundo del desarrollo web y seguir evolucionando en esta industria.</p>
 
-- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales.
-- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> 
-- 📫 Contáctame: rubgarciaruiz@gmail.com 
+<p>- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales.</p>
+<p>- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> </p>
+<p>- 📫 Contáctame: rubgarciaruiz@gmail.com </p>
