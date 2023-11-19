@@ -23,7 +23,10 @@ Estoy abierto nuevos empleos o prácticas dónde seguir avanzando y evolucionand
 
 Trabajo con **HTML**, **CSS3**, **PHP**, **Java**, también me gustaría aprender Phyton, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos. 
 
+Como proyecto personal dispongo de una página web realizada en WordPress: https://rugren.es/
+
 Estoy abierto a oportunidades de empleo o prácticas que me permitan sumergirme en el mundo del desarrollo web y seguir evolucionando en esta industria.
 
 - 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales.
+- También puedes escribirme vía LinkedIn: https://www.linkedin.com/in/rubengarciaruiz92/
 - 📫 Contáctame: rubgarciaruiz@gmail.com 
