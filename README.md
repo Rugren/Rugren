@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### Bienvenido a mi perfil de GitHub 👋
 
-<p>Actualmente estoy cursando un ciclo Formativo de <b>Grade Superior de Desarrollo de Aplicaciones Web</b>b>.</p>
+<p>Actualmente estoy cursando un ciclo Formativo de <b>Grade Superior de Desarrollo de Aplicaciones Web</b>.</p>
 
 <p>Siempre me encuentro en continuo aprendizaje y estudio de la materia del desarrollo web y/o software de aplicaciones.</p>
 <p>Busco oportunidades de trabajo donde aplicar, practicar y desarrollar  mis habilidades técnicas.</p>
 <p>Estoy abierto nuevos empleos o prácticas dónde seguir avanzando y evolucionando en esta industria del sector tecnológico.</p>
 
-<p>Trabajo con <b>HTML, CSS3, PHP, Java,</b>b> también me gustaría aprender Phyton, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos.</p>
+<p>Trabajo con <b>HTML, CSS3, PHP, Java,</b> también me gustaría aprender Phyton, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos.</p>
 
 <p>Como proyecto personal dispongo de una página web realizada en WordPress: <a href="https://rugren.es/" target="_blank" rel="noopener">Rugren.es</a></p>
 
