@@ -71,9 +71,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## ¿Dónde más me puedes encontrar?
-
 ## ¿Dónde más me puedes encontrar?
 <div align="center">
 <a href="https://github.com/Rugren" target="_blank">
@@ -92,9 +89,6 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-<br/>  
-
 <br/>  
 
 <div align="center">
