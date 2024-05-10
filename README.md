@@ -204,7 +204,7 @@ Here are some ideas to get you started:
 
 ## Github Stats - Lenguajes actuales en mis repositorios 
 <!-- (Esto es el Github Stats, quitado porque tengo pocas estadísticas) <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div></div> 
+<div></div> -- >
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
 -->
 
@@ -215,15 +215,36 @@ Here are some ideas to get you started:
 <br/>  
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rugren&&style=flat-square" align="center" />
-</div>  
-<br/>  
-
+<!-- Visitas al perfil de GitHub -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rugren&&style=flat-square" align="center" />
-</div>  
+</div>
 
+<br/>  
+<br/>  
+
+<!-- Enlace a Paypal. Enlace a buymeacoffee y ko-fi comentados hasta que me cree cuentas ahí. -->
+<div align="center">
+            <a href="https://paypal.me/rugren" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <!-- <a href="https://www.buymeacoffee.com/rugren" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+            <a href="https://ko-fi.com/rugren" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a> --> 
+</div>
+<br />
 
 
 
