@@ -215,12 +215,12 @@ Here are some ideas to get you started:
 <br/>  
 <br/>  
 
+## Visitas al perfil y otros enlaces
 <!-- Visitas al perfil de GitHub -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rugren&&style=flat-square" align="center" />
 </div>
 
-<br/>  
 <br/>  
 
 <!-- Enlace a Paypal. Enlace a buymeacoffee y ko-fi comentados hasta que me cree cuentas ahí. -->
