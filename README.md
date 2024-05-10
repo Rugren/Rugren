@@ -192,7 +192,6 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</div>
 
 </td></tr></table>  
 
