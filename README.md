@@ -92,8 +92,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/rubengarciaruiz92/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
 
@@ -136,7 +135,7 @@ Here are some ideas to get you started:
 
 <!-- Esto Generado con: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-## Conocimientos técnicos y competencias:
+## Conocimientos técnicos y competencias
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -203,8 +202,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## Lenguajes que podrás encontrar en mis repositorios actualmente
+## Github Stats y Lenguajes actuales en mis repositorios 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div></div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
@@ -213,7 +213,11 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Rugren&&style=flat-square" align="center" />
 </div>  
+<br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rugren&&style=flat-square" align="center" />
+</div>  
 
 
 
