@@ -196,7 +196,7 @@ Here are some ideas to get you started:
 </div>
 
 
-</td></tr valign="top" width="33%"></table>  
+</td></tr></table>  
 
 <br/>  
 
