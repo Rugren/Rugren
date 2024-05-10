@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>Busco oportunidades de trabajo donde aplicar, practicar y desarrollar  mis habilidades técnicas.</p>
 <p>Estoy abierto nuevos empleos o prácticas dónde seguir avanzando y evolucionando en esta industria del sector tecnológico.</p>
 
-<p>Trabajo con diferentes lenguajes, en los que también me gustaría aprender <b>Python</b>, y demás entornos de desarrollo dónde pueda practicar y/o desarrollar mis trabajos.</p>
+<p>Trabajo con diferentes lenguajes, en los que también me gustaría aprender <b>Python</b>. También conocer otros entornos de desarrollo dónde pueda practicar y/o desarrollar mis continuos trabajos.</p>
 
 <p>Como proyecto personal dispongo de una página web/blog realizada en WordPress: <a href="https://rugren.es/" target="_blank" rel="noopener">Rugren.es</a></p>
 <p>También puedes ver los continuos proyectos que voy desarrollando en mi apartado de Repositorios de GitHub.</p>
