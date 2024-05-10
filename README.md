@@ -112,13 +112,15 @@ https://profilinator.rishav.dev/
 <div align="left">
 <a href="https://github.com/Rugren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
+  
 <a href="https://linkedin.com/in/rubengarciaruiz92" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://twitter.com/rugrenrrg" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/>  
