@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 <p>- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> </p>
 <p>- 📫 Contáctame: rubgarciaruiz@gmail.com </p>
 
-<! -- Esto Generado con: https://rahuldkjain.github.io/gh-profile-readme-generator/ -- >
+<!-- Esto Generado con: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 ## Conocimientos técnicos y competencias:
 <table><tr><td valign="top" width="33%">
