@@ -187,21 +187,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## ¿Dónde más me puedes encontrar? ¡Conecta conmigo!
-<div align="center">
-<a href="https://github.com/Rugren" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rubengarciaruiz92" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://twitter.com/rugrenrrg" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<br/>  
-
 ## Lenguajes actuales en mis repositorios 
 <!-- (Así se veían los 2, uno a cada lado, pero daba problemas con el siguiente apartado. Sobretodo en pantallas pequeñas)
 <div><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
@@ -218,7 +203,22 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugren&hide_border=true&layout=compact" />
 </div>
 
-<br/>  
+<br/>
+
+
+## ¿Dónde más me puedes encontrar? ¡Conecta conmigo!
+<div align="center">
+<a href="https://github.com/Rugren" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rubengarciaruiz92" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://twitter.com/rugrenrrg" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>
+
 <br/>  
 
 ## Visitas al perfil y otros enlaces
