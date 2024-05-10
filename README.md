@@ -126,7 +126,8 @@ https://profilinator.rishav.dev/
 <br/>  
 
 ## Visitas al perfil y otros enlaces
-<!-- Visitas al perfil de GitHub -->
+<!-- Contador de visitas al perfil de GitHub 
+Si pongo rishavanand aparecerán sus visitas, más de 200k. -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rugren&&style=flat-square" align="center" />
 </div>
