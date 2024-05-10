@@ -209,7 +209,7 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
 -->
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugren&hide_border=true&layout=compact" align="right" /></div>  
 
 
