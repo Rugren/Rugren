@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 <p>Estoy abierto a oportunidades de empleo o prácticas que me permitan sumergirme en el mundo del desarrollo web y seguir evolucionando en este sector.</p>
 
-<p>- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales: @Rugren</p>
+<p>- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales: <b>@Rugren</b>b></p>
 <p>- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> </p>
 <p>- 📫 Contáctame: rubgarciaruiz@gmail.com </p>
 
