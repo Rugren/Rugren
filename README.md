@@ -202,10 +202,15 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## Github Stats y Lenguajes actuales en mis repositorios 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats - Lenguajes actuales en mis repositorios 
+<!-- (Esto es el Github Stats, quitado porque tengo pocas estadísticas) <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div></div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugren&hide_border=true&layout=compact" align="right" /></div>  
+
 
 <br/>  
 <br/>  
