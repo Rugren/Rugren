@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 
 <p>Estoy abierto a oportunidades de empleo o prácticas que me permitan sumergirme en el mundo del desarrollo web y seguir evolucionando en este sector.</p>
 
-<p>- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales: <b>@Rugren</b></p>
-<p>- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> </p>
-<p>- 📫 Contáctame: rubgarciaruiz@gmail.com </p>
-
-<!-- Esto Generado con: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Esto Generado con: 
+https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+https://profilinator.rishav.dev/
+-->
 
 ## Conocimientos técnicos y competencias
 <table><tr><td valign="top" width="33%">
@@ -105,7 +104,11 @@ Here are some ideas to get you started:
 <br/>
 
 
-## ¿Dónde más me puedes encontrar? ¡Conecta conmigo!
+## ¿Dónde me puedes encontrar? ¡Conecta conmigo!
+<p>- 💬 Pregúntame cualquier duda que pueda surgirte acerca de mí, todo esto y más en mi perfil o redes sociales: <b>@Rugren</b></p>
+<p>- También puedes escribirme vía LinkedIn: <a href="https://www.linkedin.com/in/rubengarciaruiz92/" target="_blank">LinkedIn</a> </p>
+<p>- 📫 Contáctame: rubgarciaruiz@gmail.com </p>
+
 <div align="center">
 <a href="https://github.com/Rugren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
