@@ -202,20 +202,17 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## Github Stats - Lenguajes actuales en mis repositorios 
-<!-- (Esto es el Github Stats, quitado porque tengo pocas estadísticas) 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div></div> -- >
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rugren&hide_border=true&layout=compact" align="center" /></div>  
--->
-<!-- (Así daba problemas con el siguiente apartado)
+## Lenguajes actuales en mis repositorios 
+<!-- (Así se veían los 2, uno a cada lado, pero daba problemas con el siguiente apartado. Sobretodo en pantallas pequeñas)
 <div><img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugren&hide_border=true&layout=compact" align="right" /></div>  
 -->
 
+<!-- (Esto es el Github Stats, quitado porque tengo pocas estadísticas) 
+## Github Stats - Lenguajes actuales de mis repositorios 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rugren&show_icons=true&count_private=true&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugren&hide_border=true&layout=compact" />
